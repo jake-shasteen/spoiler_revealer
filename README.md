@@ -1,2 +1,2 @@
-# spoiler_revealer
-A code snippet for spoiler revealer functionality
+# Spoiler Revealer
+A code snippet for spoiler revealer functionality.
